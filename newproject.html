@@ -1,0 +1,47 @@
+<html>
+<head><b><center><h1><i><u>
+STUDENT PROFILE
+</head></b></center><h1></i></u>
+<title>Student Profile</title>
+
+<body bgcolor="cyan">
+<pr><center>*********************************</center></pr>
+<center><img src="C:\Users\dell\Downloads\PHOTOGRAPH.jpg" border =5 alt="PHOTO" width=200 title=" Student Image "></center>
+<pr><center>*********************************</center></pr>
+<table align="center" bgcolor="black" width=500 height =150>
+<tr bgcolor="grey">
+<th>Name :</th>
+<th>Shubh Mishra 
+</tr>
+<tr bgcolor="grey">
+<th>D.O.B :</th>
+<th>25-07-2006</th>
+</tr>
+<tr bgcolor="green">
+<th>Father Name :</th>
+<th>Anuj Mishra </th>
+</tr>
+<tr bgcolor="green">
+<th>Mother Name :</th>
+<th>Preeti Mishra</th>
+<tr bgcolor="red">
+<th>Name of any Sibling :</th>
+<th>Riddhi Mishra</th>
+</tr>
+<tr bgcolor="pink">
+<th>Education :</th>
+<th>B.Tech-1st Year C.S.E-Aiml <br>
+12th From S.S.E.M.S <br>
+10th From S.T.E.M.S </th>
+</tr> 
+<tr bgcolor="yellow">
+<th>Social Media Links :</th>
+<th><a href="https://www.linkedin.com/in/shubh-mishra-37b515385/">Linkdin ID link [Click to visit the site] </a></th> 
+</tr>
+<tr bgcolor ="green">
+<th>Address :</th>
+<th>B1-503 Pramukh Sahaj Society Muktanand Marg Chala Vapi Gujarat Pin-396191 </th>
+</tr>
+</table>
+</body>
+</html>
